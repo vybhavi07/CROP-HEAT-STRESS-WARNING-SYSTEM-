@@ -30,19 +30,19 @@ Based on the temperature condition, the system activates different indicators:
 
 🔧 Hardware Prototype – Normal Condition
 
-"Normal Condition" (IMG_20261028_180249.jpg)
+"Normal Condition" (https://raw.githubusercontent.com/vybhavi07/CROP-HEAT-STRESS-WARNING-SYSTEM-/main/IMG_20261028_180249.jpg)
 
 ⚠️ Hardware Prototype – Warning Condition
 
-"Warning Condition" (IMG_20261028_180307.jpg)
+"Warning Condition" (https://raw.githubusercontent.com/vybhavi07/CROP-HEAT-STRESS-WARNING-SYSTEM-/main/IMG_20261028_180307.jpg)
 
 🚨 Hardware Prototype – High Temperature Condition
 
-"High Temperature Condition" (IMG_20261028_180317.jpg)
+"High Temperature Condition" (https://raw.githubusercontent.com/vybhavi07/CROP-HEAT-STRESS-WARNING-SYSTEM-/main/IMG_20261028_180317.jpg)
 
 📐 Circuit Diagram
 
-"Circuit Diagram" (image_852c5a12%20(1).jpg)
+"Circuit Diagram" (https://raw.githubusercontent.com/vybhavi07/CROP-HEAT-STRESS-WARNING-SYSTEM-/main/image_852c5a12%20(1).jpg)
 ⚙️ Components Used
 
 - LM358 Operational Amplifier – 2 ICs
