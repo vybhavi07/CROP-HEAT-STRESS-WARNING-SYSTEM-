@@ -30,28 +30,19 @@ Based on the temperature condition, the system activates different indicators:
 
 🔧 Hardware Prototype – Normal Condition
 
-"Normal Temperature Condition" (images/crop-normal.jpg)
-
-Green LED indicates normal temperature conditions.
+"Normal Condition" (IMG_20261028_180249.jpg)
 
 ⚠️ Hardware Prototype – Warning Condition
 
-"Warning Temperature Condition" (images/crop-warning.jpg)
-
-Yellow LED indicates the temperature warning range.
+"Warning Condition" (IMG_20261028_180307.jpg)
 
 🚨 Hardware Prototype – High Temperature Condition
 
-"High Temperature Condition" (images/crop-overheat.jpg)
-
-Red LED indicates high-temperature conditions.
+"High Temperature Condition" (IMG_20261028_180317.jpg)
 
 📐 Circuit Diagram
 
-"Crop Heat Stress Circuit Diagram" (images/crop-heat-stress-circuit.jpg)
-
-LM358-based dual comparator circuit for temperature monitoring and warning.
-
+"Circuit Diagram" (image_852c5a12%20(1).jpg)
 ⚙️ Components Used
 
 - LM358 Operational Amplifier – 2 ICs
