@@ -26,23 +26,23 @@ Based on the temperature condition, the system activates different indicators:
 - Yellow LED – Warning condition (30°C–35°C).
 - Red LED and buzzer – High-temperature alert (Above 35°C).
 
-📸 Project Images
+## 📸 Project Images
 
-🔧 Hardware Prototype – Normal Condition
+### 🔧 Hardware Prototype – Normal Condition
 
-"Normal Condition" (https://raw.githubusercontent.com/vybhavi07/CROP-HEAT-STRESS-WARNING-SYSTEM-/main/IMG_20261028_180249.jpg)
+![Normal Condition](https://raw.githubusercontent.com/vybhavi07/CROP-HEAT-STRESS-WARNING-SYSTEM-/main/IMG_20261028_180249.jpg)
 
-⚠️ Hardware Prototype – Warning Condition
+### ⚠️ Hardware Prototype – Warning Condition
 
-"Warning Condition" (https://raw.githubusercontent.com/vybhavi07/CROP-HEAT-STRESS-WARNING-SYSTEM-/main/IMG_20261028_180307.jpg)
+![Warning Condition](https://raw.githubusercontent.com/vybhavi07/CROP-HEAT-STRESS-WARNING-SYSTEM-/main/IMG_20261028_180307.jpg)
 
-🚨 Hardware Prototype – High Temperature Condition
+### 🚨 Hardware Prototype – High Temperature Condition
 
-"High Temperature Condition" (https://raw.githubusercontent.com/vybhavi07/CROP-HEAT-STRESS-WARNING-SYSTEM-/main/IMG_20261028_180317.jpg)
+![High Temperature Condition](https://raw.githubusercontent.com/vybhavi07/CROP-HEAT-STRESS-WARNING-SYSTEM-/main/IMG_20261028_180317.jpg)
 
-📐 Circuit Diagram
+### 📐 Circuit Diagram
 
-"Circuit Diagram" (https://raw.githubusercontent.com/vybhavi07/CROP-HEAT-STRESS-WARNING-SYSTEM-/main/image_852c5a12%20(1).jpg)
+![Circuit Diagram](https://raw.githubusercontent.com/vybhavi07/CROP-HEAT-STRESS-WARNING-SYSTEM-/main/image_852c5a12%20(1).jpg)
 
 ⚙️ Components Used
 
