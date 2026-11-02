@@ -43,6 +43,7 @@ Based on the temperature condition, the system activates different indicators:
 📐 Circuit Diagram
 
 "Circuit Diagram" (https://raw.githubusercontent.com/vybhavi07/CROP-HEAT-STRESS-WARNING-SYSTEM-/main/image_852c5a12%20(1).jpg)
+
 ⚙️ Components Used
 
 - LM358 Operational Amplifier – 2 ICs
